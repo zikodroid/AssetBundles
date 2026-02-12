@@ -6,6 +6,13 @@
       "bundle_url": "https://www.dropbox.com/scl/fi/c33y5p0lbu67dgkpffl70/arerlebnis2?rlkey=jzq7rfc1x4wbi8g611u62fxee&st=uzx5t1xm&dl=1",
       "marker_width": 0.169,
       "asset_name": "arerlebnis2"
+    },
+    {
+      "name": "arerlebnis6",
+      "marker_url": "https://raw.githubusercontent.com/zikodroid/AssetBundles/main/AR6.png",
+      "bundle_url": "https://www.dropbox.com/scl/fi/q8uu6p0p8sb55vbqmhhgd/arerlebnis6?rlkey=5b5y4uimyq322llt4hst2akc8&st=43jav3pj&dl=1",
+      "marker_width": 0.169,
+      "asset_name": "arerlebnis6"
     }
   ]
 }
